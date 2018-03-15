@@ -47,4 +47,4 @@ except :
 if args.do_count_lines or args.do_count_chars or args.do_count_words:
     word_counter(args.do_count_lines, args.do_count_chars, args.do_count_words, args.file)
 else:
-    print('No options chosen, use -h option to see the other options.')
+    print('No options chosen, use -h option to get help.')
