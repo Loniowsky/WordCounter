@@ -3,7 +3,7 @@
 ## Installation
 To be able to use the app just download [WordCounter.py](https://github.com/Loniowsky/WordCounter/blob/master/WordCounter.py). **[Python3](https://www.python.org/downloads/) interpreter needed!!!**
 ## Usage
-Before using **WordCounter** check out manual wchich is accesible by ./WordCounter.py -h. To use **WordCounter** properly you have to specify what you want to count. You can do this by using specified flags:
+Before using **WordCounter** check out manual which is accesible by ./WordCounter.py -h. To use **WordCounter** properly you have to specify what you want to count. You can do this by using specified flags:
 
 * `-c` or `--chars` - count characters
 * `-l` or `--lines` - count lines
